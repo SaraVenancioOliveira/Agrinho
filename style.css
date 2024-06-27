@@ -1,15 +1,15 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 5px;
+    padding:20px;
   }
 
 :root {
-  --verde-fundo: ;
+  --verde-fundo: rgba(85, 24, 32, 0.185);
   --fonte-principal: "Lustria";
   --verde-principal: ;
   --azul-principal: ;
   --verde-secundario: ;
-  --link: #0a4804;
+  --link: #041048;
 }
 
 body{
