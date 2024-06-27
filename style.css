@@ -22,6 +22,10 @@ body{
 
 }
 
+.cabecalho__titulo{
+  color: white;
+  text-align: centro;
+}
 /*seções comuns ou seção 1*/
 .secao1{
 
