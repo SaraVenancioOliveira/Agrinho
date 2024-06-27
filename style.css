@@ -9,12 +9,13 @@ body{
 
 /*Cabeçalho / Header */
 .cabecalho{
-  height: 150px;
+  height: 10px;
   background-color: orange;
 }
 
 
 .cabecalho__titulo{
+
   color: black;
   text-align: center;
 }
