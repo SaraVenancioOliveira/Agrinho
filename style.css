@@ -9,9 +9,12 @@ body{
 
 /*Cabeçalho / Header */
 .cabecalho{
-
+  
 }
 
+.cabecalho__banner{
+  height: 250px;
+}
 
 /*seções comuns ou seção 1*/
 .secao1{
