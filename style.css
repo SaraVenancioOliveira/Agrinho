@@ -4,12 +4,12 @@
   }
 
 :root {
-  --verde-fundo: rgba(85, 24, 32, 0.185);
+  --verde-fundo: ;
   --fonte-principal: "Lustria";
   --verde-principal: ;
   --azul-principal: ;
   --verde-secundario: ;
-  --link: #041048;
+  --link: #044815;
 }
 
 body{
