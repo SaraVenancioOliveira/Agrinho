@@ -16,7 +16,12 @@ body{
   height: 250px;
   margin: auto;
   display: flex;
-  background-color: yellow ;
+}
+
+.cabecalho__div{
+  width: 70%;
+background-color: yellow;
+
 }
 
 /*seções comuns ou seção 1*/
