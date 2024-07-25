@@ -35,7 +35,8 @@ body{
 /*rodapé*/
 .rodape{
   text-align: center;
-        background: rgb(228, 164, 91);
+  background-color:#f0a570;
+  background: ;
         padding: 40px 0;
 
 }
