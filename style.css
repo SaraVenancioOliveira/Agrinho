@@ -34,5 +34,8 @@ body{
 
 /*rodapé*/
 .rodape{
+  text-align: center;
+        background: black;
+        padding: 40px 0;
 
 }
